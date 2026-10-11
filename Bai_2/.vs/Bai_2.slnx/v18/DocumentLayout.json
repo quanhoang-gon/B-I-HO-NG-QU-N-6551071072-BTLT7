@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B66916-938D-4F7B-88A9-F7338C89D0E1}|Bai_2\\Bai_2.csproj|c:\\users\\hoang quan\\source\\repos\\btlt7\\bai_2\\bai_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B66916-938D-4F7B-88A9-F7338C89D0E1}|Bai_2\\Bai_2.csproj|solutionrelative:bai_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B66916-938D-4F7B-88A9-F7338C89D0E1}|Bai_2\\Bai_2.csproj|c:\\users\\hoang quan\\source\\repos\\btlt7\\bai_2\\bai_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B66916-938D-4F7B-88A9-F7338C89D0E1}|Bai_2\\Bai_2.csproj|solutionrelative:bai_2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B66916-938D-4F7B-88A9-F7338C89D0E1}|Bai_2\\Bai_2.csproj|c:\\users\\hoang quan\\source\\repos\\btlt7\\bai_2\\bai_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9B66916-938D-4F7B-88A9-F7338C89D0E1}|Bai_2\\Bai_2.csproj|solutionrelative:bai_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B66916-938D-4F7B-88A9-F7338C89D0E1}|Bai_2\\Bai_2.csproj|c:\\users\\hoang quan\\source\\repos\\btlt7\\bai_2\\bai_2\\models\\fitzonecontext.custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B66916-938D-4F7B-88A9-F7338C89D0E1}|Bai_2\\Bai_2.csproj|solutionrelative:bai_2\\models\\fitzonecontext.custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B66916-938D-4F7B-88A9-F7338C89D0E1}|Bai_2\\Bai_2.csproj|c:\\users\\hoang quan\\source\\repos\\btlt7\\bai_2\\bai_2\\models\\fitzonecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B66916-938D-4F7B-88A9-F7338C89D0E1}|Bai_2\\Bai_2.csproj|solutionrelative:bai_2\\models\\fitzonecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B66916-938D-4F7B-88A9-F7338C89D0E1}|Bai_2\\Bai_2.csproj|c:\\users\\hoang quan\\source\\repos\\btlt7\\bai_2\\bai_2\\models\\hoivien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B66916-938D-4F7B-88A9-F7338C89D0E1}|Bai_2\\Bai_2.csproj|solutionrelative:bai_2\\models\\hoivien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai_2\\Bai_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai_2\\Bai_2\\Form1.cs",
+              "RelativeToolTip": "Bai_2\\Form1.cs",
+              "ViewState": "AgIAAEkBAAAAAAAAAAAAwFgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:57:01.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai_2\\Bai_2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bai_2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai_2\\Bai_2\\Form1.Designer.cs",
+              "RelativeToolTip": "Bai_2\\Form1.Designer.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAwwEEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:56:28.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FitZoneContext.Custom.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai_2\\Bai_2\\Models\\FitZoneContext.Custom.cs",
+              "RelativeDocumentMoniker": "Bai_2\\Models\\FitZoneContext.Custom.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai_2\\Bai_2\\Models\\FitZoneContext.Custom.cs",
+              "RelativeToolTip": "Bai_2\\Models\\FitZoneContext.Custom.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:56:00.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoiVien.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai_2\\Bai_2\\Models\\HoiVien.cs",
+              "RelativeDocumentMoniker": "Bai_2\\Models\\HoiVien.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai_2\\Bai_2\\Models\\HoiVien.cs",
+              "RelativeToolTip": "Bai_2\\Models\\HoiVien.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:55:36.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FitZoneContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai_2\\Bai_2\\Models\\FitZoneContext.cs",
+              "RelativeDocumentMoniker": "Bai_2\\Models\\FitZoneContext.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai_2\\Bai_2\\Models\\FitZoneContext.cs",
+              "RelativeToolTip": "Bai_2\\Models\\FitZoneContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:55:12.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai_2\\Bai_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai_2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai_2\\Bai_2\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai_2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:51:28.053Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

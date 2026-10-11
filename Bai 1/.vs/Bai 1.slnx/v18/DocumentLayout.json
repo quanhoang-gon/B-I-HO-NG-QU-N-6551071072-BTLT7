@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|c:\\users\\hoang quan\\source\\repos\\btlt7\\bai 1\\bai 1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|solutionrelative:bai 1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|c:\\users\\hoang quan\\source\\repos\\btlt7\\bai 1\\bai 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|solutionrelative:bai 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|c:\\users\\hoang quan\\source\\repos\\btlt7\\bai 1\\bai 1\\models\\trithucbookscontext.custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|solutionrelative:bai 1\\models\\trithucbookscontext.custom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|c:\\users\\hoang quan\\source\\repos\\btlt7\\bai 1\\bai 1\\models\\theloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|solutionrelative:bai 1\\models\\theloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|c:\\users\\hoang quan\\source\\repos\\btlt7\\bai 1\\bai 1\\models\\trithucbookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|solutionrelative:bai 1\\models\\trithucbookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|c:\\users\\hoang quan\\source\\repos\\btlt7\\bai 1\\bai 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|solutionrelative:bai 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriThucBooksContext.Custom.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai 1\\Bai 1\\Models\\TriThucBooksContext.Custom.cs",
+              "RelativeDocumentMoniker": "Bai 1\\Models\\TriThucBooksContext.Custom.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai 1\\Bai 1\\Models\\TriThucBooksContext.Custom.cs",
+              "RelativeToolTip": "Bai 1\\Models\\TriThucBooksContext.Custom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:34:54.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TheLoaiSach.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai 1\\Bai 1\\Models\\TheLoaiSach.cs",
+              "RelativeDocumentMoniker": "Bai 1\\Models\\TheLoaiSach.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai 1\\Bai 1\\Models\\TheLoaiSach.cs",
+              "RelativeToolTip": "Bai 1\\Models\\TheLoaiSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:27:10.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai 1\\Bai 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai 1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai 1\\Bai 1\\Form1.cs",
+              "RelativeToolTip": "Bai 1\\Form1.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAQwNsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:31:07.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai 1\\Bai 1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Bai 1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai 1\\Bai 1\\Form1.Designer.cs",
+              "RelativeToolTip": "Bai 1\\Form1.Designer.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAzwNIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:31:02.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TriThucBooksContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai 1\\Bai 1\\Models\\TriThucBooksContext.cs",
+              "RelativeDocumentMoniker": "Bai 1\\Models\\TriThucBooksContext.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai 1\\Bai 1\\Models\\TriThucBooksContext.cs",
+              "RelativeToolTip": "Bai 1\\Models\\TriThucBooksContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T14:26:34.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai 1\\Bai 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai 1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT7\\Bai 1\\Bai 1\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai 1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T13:35:12.423Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
